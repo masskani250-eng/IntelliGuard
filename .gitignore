@@ -1,0 +1,7 @@
+.idea/
+out/
+python_backend/venv/
+python_backend/__pycache__/
+__pycache__/
+*.pyc
+*.log
